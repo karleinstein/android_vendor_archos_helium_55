@@ -1,1 +1,1 @@
-# android_vendor_smart_surf2_4g
+# android_vendor_archos_helium_55
