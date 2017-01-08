@@ -252,6 +252,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/helium_55/proprietary/etc/firmware/WMT_SOC.cfg:system/etc/firmware/WMT_SOC.cfg \
     vendor/archos/helium_55/proprietary/etc/firmware/WIFI_RAM_CODE_6735:system/etc/firmware/WIFI_RAM_CODE_6735 \
     vendor/archos/helium_55/proprietary/etc/firmware/dsp_1_lwg_n.bin:system/etc/firmware/dsp_1_lwg_n.bin \
+    vendor/archos/helium_55/proprietary/etc/firmware/em_filter_1_lwg_n.bin:system/etc/firmware/em_filter_1_lwg_n.bin \
     vendor/archos/helium_55/proprietary/etc/mtk_omx_core.cfg:system/etc/mtk_omx_core.cfg \
     vendor/archos/helium_55/proprietary/etc/.tp/thermal.conf:system/etc/.tp/thermal.conf \
     vendor/archos/helium_55/proprietary/etc/.tp/.ht120.mtc:system/etc/.tp/.ht120.mtc \
